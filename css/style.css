@@ -16,3 +16,10 @@ h1 {
     font-family: sans-serif;
     color: aqua;
 }
+
+.circle {
+    width: 600px;
+    height: 600px;
+    background-color: red;
+    border-radius: 50%;
+}
